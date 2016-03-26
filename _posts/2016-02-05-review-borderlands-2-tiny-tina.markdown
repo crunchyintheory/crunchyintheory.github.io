@@ -4,6 +4,7 @@ title:  "Borderlands 2: Tiny Tina's Assault on Dragon Keep Review"
 date:   2016-02-05 11:45:00 -0500
 categories: reviews dlc
 gameid: 218550
+review: true
 snippet: "Borderlands 2: Tiny Tina's Assault on Dragon Keep is one of the four campaign DLCs made for Borderlands 2. It was developed by Gearbox Software, the developers of the base game."
 ---
 

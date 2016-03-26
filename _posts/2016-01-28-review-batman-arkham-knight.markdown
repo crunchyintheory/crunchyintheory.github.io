@@ -2,8 +2,9 @@
 layout: post
 title:  "Batman: Arkham Knight Review"
 date:   2016-01-28 01:40:34 -0500
-categories: reviews
+categories: post
 gameid: 208650
+review: true
 snippet: "Batman: Arkham Knight is an open-world action game developed by Rocksteady, published by Warner Brothers, and ported to PC by Iron Galaxy. This game is infamous for its atrocious launch, when it was riddled so much with bugs, frame rate locks, missing features, and general horrible performance that WB felt the need to pull it from shelves and encourage people to get refunds. Now, however, most of the bugs and issues have been ironed out, and it is definitely a fantastic game and an acceptable PC port."
 ---
 

@@ -7,15 +7,17 @@ layout: default
   <h1 class="page-heading">Reviews</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for review in site.posts %}
+    {% if review.review %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ review.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a>
         </h2>
-        {{ post.snippet }}
+        {{ review.snippet }}
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
 

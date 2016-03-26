@@ -4,6 +4,7 @@ title:  "Borderlands 2: Sir Hammerlock's Big Game Hunt"
 date:   2016-02-05 11:33:34 -0500
 categories: reviews dlc
 gameid: 213250
+review: true
 snippet: "Borderlands 2: Sir Hammerlock's Big Game Hunt is a piece of DLC for Borderlands 2 that was outsourced by 2K. It follows the adventures of the refined Sir Hammerlock's adventure through a hunting retreat with your player character. This is one of the four Campaign DLCs for Borderlands 2."
 ---
 

@@ -1,3 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+reviews/_site/
+reviews/.sass-cache/
+reviews/.jekyll-metadata
+blog/_site/
+blog/.sass-cache/
+blog/.jekyll-metadata

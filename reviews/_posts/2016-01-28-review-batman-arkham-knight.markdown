@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Batman: Arkham Knight Review"
-date:   2016-03-26 01:40:34 -0500
+date:   2016-01-28 01:40:34 -0500
 categories: reviews
 gameid: 208650
+snippet: "Batman: Arkham Knight is an open-world action game developed by Rocksteady, published by Warner Brothers, and ported to PC by Iron Galaxy. This game is infamous for its atrocious launch, when it was riddled so much with bugs, frame rate locks, missing features, and general horrible performance that WB felt the need to pull it from shelves and encourage people to get refunds. Now, however, most of the bugs and issues have been ironed out, and it is definitely a fantastic game and an acceptable PC port."
 ---
 
 <img id="review-content-header" src="{{ site.github.url }}/images/boxart/batman-arkham-knight/cover1.jpg">
@@ -43,7 +44,7 @@ At launch, there was a controversy over the PC version missing wetness textures,
 
 # - The Story -
 
-The story revolves around the Arkham Knight, a mysterious masked villain who's out for revenge on Batman, and Scarecrow. The Knight is actually a new character created exclusively for this game, which is failrly uncommon to see in a DC game. I won't spoil the specifics of the plot twist here, but Scarecrow has threatened Gotham with his new batch of fear toxin, and Gotham is evacuated, leaving the Arkham Knight's militia to take control of the city.
+The story revolves around the Arkham Knight, a mysterious masked villain who's out for revenge on Batman, and Scarecrow. The Knight is actually a new character created exclusively for this game, which is failrly uncommon to see in a DC game. I won't spoil the specifics of the plot twist here, but <span class="spoiler">Batman's slow decent into insanity is very very well done, more than most. The game really overuses the "you turn around and turn back and there's something different there now" though.</span> Scarecrow has threatened Gotham with his new batch of fear toxin, and Gotham is evacuated, leaving the Arkham Knight's militia to take control of the city.
 
 I've never really felt intimidated by Scarecrow as a main villain up until now, he's always been just that guy who wears a bag on his head. In Arkham Knight, however, a combination of his redesign and his fantastic voice acting by John Noble (I just have to mention it) creates a genuinely fear-inducing antagonist. In fact, all the characters are very well voice acted.
 

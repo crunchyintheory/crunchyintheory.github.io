@@ -28,6 +28,10 @@ div#description {
   position: absolute;
 }
 
+.fadedout {
+  opacity: 0;
+}
+
 #break1 {
   width: 100%;
   height: 500px;

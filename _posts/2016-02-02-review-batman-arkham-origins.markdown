@@ -2,7 +2,7 @@
 layout: post
 title: "Batman: Arkham Origins Review"
 date: 2016-02-02 10:59:00 -0500
-categories: post
+categories: reviews
 gameid: 209000
 review: true
 snippet: "Batman: Arkham Origins is an open world action game developed by WB Games Montreal and Splash Damage and published by Warner Brothers. To my knowledge, it was also ported to PC by WB Montreal and Splash Damage. For some reason, Batman games just can't catch a solid break on PC, at least not at launch, but this game clearly suffers far worse than the rest of them."
@@ -34,7 +34,7 @@ The graphics settings are acceptable, but the other settings are sadly not. Fiel
 
 Also, what's the deal with the pre-rendered cutscenes in this game? I get pre-rendered cutscenes in games, I really do, but not when they're compressed at the same bitrate as my livestreams, run at thirty frames per second, and they even look worse than the in-engine ones, I have a hard time defending them. Especially considering that they're literally everywhere in this game,
 
-#- The Story -
+# - The Story -
 
 The story consists of Batman being hunted by assassins sent by Black Mask <span class="spoiler">err..I mean Joker</span>, and is a prequel to Arkham Asylum. The lack of a compelling story is a major problem with this game. It's all very cliche, and I even thought that it was over at some points until I consulted the most wanted screen. Most of the voice actors lack good delivery on their lines, and it's not particularly well-written either. Part of the problem is how little the most wanted missions tie-in with the main story, so you won't even realize that they're there until you play the next game and realize that there are side quests.
 
@@ -46,4 +46,4 @@ If you can take the bugs, it's a fun game for running around as Batman and beati
 
 # Final Verdict: 6/10 - Good, but lacking in some areas.
 
-[arkhamknightreview]: {{ site.github.url }}/post/2016/01/28/review-batman-arkham-knight.html
+[arkhamknightreview]: {{ site.github.url }}/reviews/2016/01/28/review-batman-arkham-knight.html

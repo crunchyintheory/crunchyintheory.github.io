@@ -79,6 +79,6 @@ div.top-btn div {
   cursor: pointer;
 }
 
-a > #blog-btn:hover, a > #rev-btn:hover {
+a > #blog-btn:hover, a > #rev-btn:hover, a > #ytapp-btn:hover {
   box-shadow: 0 8px 8px 0 rgba(0,0,0,.14),0 12px 4px -8px rgba(0,0,0,.2),0 4px 20px 0 rgba(0,0,0,.12)
 }

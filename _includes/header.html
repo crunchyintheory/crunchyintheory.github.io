@@ -2,8 +2,11 @@
 
   <div class="wrapper">
 
+    {% if page.layout == "default" %}
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% else %}
     <a class="site-title" href="{{ site.baseurl }}/reviews/">{{ site.title }}</a>
-
+    {% endif %}
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">

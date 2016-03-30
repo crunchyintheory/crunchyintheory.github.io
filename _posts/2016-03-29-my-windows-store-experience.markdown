@@ -4,7 +4,7 @@ title: "My Windows Store Experience"
 date: 2016-03-29 8:55:00 -0500
 categories: blog
 blog: true
-snippet: ""
+snippet: "Fighting games are a genre that I had never sampled before, so I was excited today to try the newly-released Killer Instinct on PC. The downside? I would have to download it from the dreaded Windows Store, a platform that has been ridiculed for attempting to impose console-like exlusivity and restrictions on PC games."
 ---
 
 <img id="review-content-header" src="{{ site.github.url }}/blog/images/my-windows-store-experience/win10.jpg">

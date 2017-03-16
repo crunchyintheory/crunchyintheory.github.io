@@ -11,9 +11,9 @@ email: nah
 description: > # this means to ignore newlines until "baseurl:"
   Mardan's site for reviews, blogs, and other random stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rittbys.github.io" # the base hostname & protocol for your site
+url: "http://crunchyintheory.github.io" # the base hostname & protocol for your site
 twitter_username: crunchyintheory
-github_username:  rittbys
+github_username:  crunchyintheory
 
 # Build settings
 markdown: kramdown

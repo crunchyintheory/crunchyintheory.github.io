@@ -8,7 +8,7 @@ review: true
 snippet: "Borderlands 2 is a first person looter shooter developed by Gearbox Software and published by 2K Games. It was ported to Mac & Linux by Aspyr. This is by far my favorite game ever; I love it wholeheartedly. It's crazy, but a perfect level to where it's not boring; it's comedic, but still manages to deliver a moving story. I definitely think that, if you haven't played this game, you should play it now and grab the DLC while you're at it."
 ---
 
-<img id="review-content-header" src="{{ site.github.url }}/reviews/images/boxart/borderlands-2/cover1.jpg">
+<img id="review-content-header" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/cover1.jpg">
 
 Borderlands 2 is a first person looter shooter developed by Gearbox Software and published by 2K Games. It was ported to Mac & Linux by Aspyr. This is by far my favorite game ever; I love it wholeheartedly. It's crazy, but a perfect level to where it's not boring; it's comedic, but still manages to deliver a moving story. I definitely think that, if you haven't played this game, you should play it now and grab the DLC while you're at it.
 

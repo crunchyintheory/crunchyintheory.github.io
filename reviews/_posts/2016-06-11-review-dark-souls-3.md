@@ -8,7 +8,7 @@ review: true
 snippet: "Dark Souls III, the game I've been waiting for since I first played Dark Souls I. Dark Souls III takes the things I enjoyed from I and II and combines them into a masterful game, quite easily taking Borderlands 2's place as my favorite game. Its combat is thrilling, its environments beautiful, and its story deep and engaging."
 ---
 
-<img id="review-content-header" src="{{ site.github.url }}/reviews/images/boxart/dark-souls-3/cover1.jpg">
+<img id="review-content-header" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/cover1.jpg">
 
 **For convenience in this review, the first Dark Souls game will be referred to as *Dark Souls I*, not *Dark Souls*. *Dark Souls III* may also be shortened to simply *DSIII* for simplicity.**
 

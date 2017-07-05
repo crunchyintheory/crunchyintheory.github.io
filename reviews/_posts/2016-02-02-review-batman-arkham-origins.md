@@ -8,7 +8,7 @@ review: true
 snippet: "Batman: Arkham Origins is an open world action game developed by WB Games Montreal and Splash Damage and published by Warner Brothers. To my knowledge, it was also ported to PC by WB Montreal and Splash Damage. For some reason, Batman games just can't catch a solid break on PC, at least not at launch, but this game clearly suffers far worse than the rest of them."
 ---
 
-<img id="review-content-header" src="{{ site.github.url }}/reviews/images/boxart/batman-arkham-origins/cover1.jpg">
+<img id="review-content-header" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/cover1.jpg">
 
 Batman: Arkham Origins is an open world action game developed by WB Games Montreal and Splash Damage and published by Warner Brothers. To my knowledge, it was also ported to PC by WB Montreal and Splash Damage. For some reason, Batman games just can't catch a solid break on PC, at least not at launch, but this game clearly suffers far worse than the rest of them. I personally didn't feel compelled to write this review until I went back to this game after completing Arkham Knight, the next game in the series, and realized many things about this game that I hadn't seen before. WB publicly announced, shortly after this game's launch, that they wouldn't be fixing any non-game-breaking bugs in order to develop more DLC for the product. As a result, the game remains bug-filled far after its launch.
 
@@ -28,7 +28,7 @@ The problem with Arkham Origin's open world in general is that all of the areas 
 
 This section is probably going to be where the review gets a little more positive, as graphics and performance is good overall for a 2013 title. It's not nearly as pretty as the Steam Store screenshots would have you believe, but it's not a bad looking game by any stretch of the word. I ran the game on max settings save Motion Blur (off) and Ambient Occlusion (very high), and had no significant frame rate drops on my system (i7 4790k, GTX 970). The quality of the lighting is probably the least strong point, and it's shamefully bad in the outdoor areas. Texture quality is relatively poor, as to be expected, along with general material/shader quality. The GameWorks snow, smoke, and paper effects are very good looking (I could probably live without the paper) and perform quite well, and the DX11 tessellation on ground snow is the best looking part of the game. Effects like fire and bloom can be somewhat dire; overall the game is better looking indoors than outdoors. Sound quality, surprisingly, can actually be horrible in some instances, especially in background sounds.
 
-<img class="review-content-image" src="{{ site.github.url }}/reviews/images/boxart/batman-arkham-origins/options.jpg">
+<img class="review-content-image" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/options.jpg">
 
 The graphics settings are acceptable, but the other settings are sadly not. Field of View is unchangeable, leaving some with a horribly narrow camera angle. There is no available Borderless Windowed mode, Anisotropic Filtering, and SMAA is not available. The game suffers a random stutter whenever you interact with most objects in the world, which will become annoying over time.
 

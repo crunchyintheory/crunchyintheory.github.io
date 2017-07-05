@@ -2,13 +2,12 @@
 layout: post
 title:  "Batman: Arkham Knight Review"
 date:   2016-01-28 01:40:34 -0500
-categories: reviews
 gameid: 208650
 review: true
 snippet: "Batman: Arkham Knight is an open-world action game developed by Rocksteady, published by Warner Brothers, and ported to PC by Iron Galaxy. This game is infamous for its atrocious launch, when it was riddled so much with bugs, frame rate locks, missing features, and general horrible performance that WB felt the need to pull it from shelves and encourage people to get refunds. Now, however, most of the bugs and issues have been ironed out, and it is definitely a fantastic game and an acceptable PC port."
 ---
 
-<img id="review-content-header" src="{{ site.github.url }}/reviews/images/boxart/batman-arkham-knight/cover1.jpg">
+<img id="review-content-header" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/cover1.jpg">
 Batman: Arkham Knight is an open-world action game developed by Rocksteady, published by Warner Brothers, and ported to PC by Iron Galaxy. This game is infamous for its atrocious launch, when it was riddled so much with bugs, frame rate locks, missing features, and general horrible performance that WB felt the need to pull it from shelves and encourage people to get refunds. Now, however, most of the bugs and issues have been ironed out, and it is definitely a fantastic game and an acceptable PC port. Please note that in this review I will be trying not to compare it to previous Arkham games, but I will be using Origins if I do.
 
 # - Combat -
@@ -31,7 +30,7 @@ I like the Batmobile, I really do. However, the game forces you to use it waaaay
 
 Let's face it, it's not a perfect PC port by any means. It will drop to 45 frames per second in some areas. The GameWorks smoke WILL destroy your framerate whenever you rev up the Batmobile. However, I ran with these settings:
 
-<img class="review-content-image" src="{{ site.github.url }}/reviews/images/boxart/batman-arkham-knight/options.jpg">
+<img class="review-content-image" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/options.jpg">
 
 
 and had an overall amazing graphical experience that is well suited to a modern AAA title. The GameWorks Smoke & Fog effect is an absolute waste, So I turned it off immediately, but the other effects actually look quite good and don't have much of a performance hit as far as I could tell.
@@ -40,7 +39,7 @@ The game just looks...amazing. By far one of the best looking games ever release
 
 At launch, there was a controversy over the PC version missing wetness textures, but I can assure you that they're present now.
 
-<img class="review-content-image" src="{{ site.github.url }}/reviews/images/boxart/batman-arkham-knight/rain-textures.jpg">
+<img class="review-content-image" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/rain-textures.jpg">
 
 
 # - The Story -

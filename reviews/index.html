@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Reviews</h1>
 
   <ul class="post-list">
-    {% for review in site.posts %}
+    {% for review in site.categories.reviews %}
     {% if review.review %}
       <li>
         <span class="post-meta">{{ review.date | date: "%b %-d, %Y" }}</span>
@@ -20,7 +20,5 @@ layout: default
     {% endif %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

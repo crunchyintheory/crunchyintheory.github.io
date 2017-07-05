@@ -8,7 +8,7 @@ review: true
 snippet: "The Lord of the Rings franchise has had a rather multifarious history when it comes to video games, but it has fared better than some other, less fortunate franchises. Mordor is probably the best *Lord of the Rings* game I've played in a long time."
 ---
 
-<img id="review-content-header" src="{{ site.github.url }}/reviews/images/boxart/middle-earth-shadow-of-mordor/cover1.jpg">
+<img id="review-content-header" src="{{ site.github.url }}/reviews/images/{{ page.gameid }}/cover1.jpg">
 
 *Middle-Earth: Shadow of Mordor* is an open-world action game developed by Monolith Productions, published by Warner Bros. on Windows, and ported & published on OSX and Linux by Feral Interactive. The *Lord of the Rings* franchise has had a rather multifarious history when it comes to video games, but it has fared better than some other, less fortunate franchises. *Mordor* is probably the best *Lord of the Rings* game I've played in a long time. *Mordor* takes place in, as you may have guessed, Mordor. You walk the footsteps of the Ranger, Talion, whose family was slaughtered by the Black Hand of Sauron while stationed upon the Black Gate of Mordor.
 

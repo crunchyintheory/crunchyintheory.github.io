@@ -4,7 +4,7 @@ body {
 h1.title {
     text-align: center;
     user-select: none;
-    cursor: pointer;
+    cursor: default;
 }
 textarea.mdl-textfield__input {
     height: 500px !important;
@@ -15,7 +15,7 @@ textarea.mdl-textfield__input {
     font-family: monospace;
 }
 form {
-    margin: 50px 10%; 
+    margin: 0 10% 50px 10%; 
 }
 .holder {
     height: 500px;
